@@ -18,3 +18,7 @@ More than likely as your testing needs become more sophisticated, you might have
 
 This is written and provided as is.
 
+Note: the reference in the PDF to TestSetup.zip is actually located in the TestSetupArchive folder.  I had to split the original zip file because it was larger than 100 mg which is a hard limit for a single file in GitHub.
+
+I created the split ZIP using a commercial version of ZIP and tested "unzipping" it using Windows 10's built-in Windows Explorer command.
+
